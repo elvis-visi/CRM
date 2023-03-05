@@ -32,3 +32,21 @@ Employee role: users in this role will only be allowed to list customers.
 # 7. ERD
 
 ![image](https://user-images.githubusercontent.com/92176935/222986582-c546e193-688c-4acb-918d-070c020fdb6e.png)
+
+# 8. Endpoints provided
+
+/customer 
+      /list
+      /showFormForAdd
+	/search
+	/saveCustomer
+	/showFormForUpdate
+	/delete
+
+
+/showMyLoginPage
+/access-denied
+
+/register
+	/showRegistrationForm
+	/processRegistrationForm
