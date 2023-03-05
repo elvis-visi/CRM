@@ -11,6 +11,8 @@ CRUD Spring MVC + Hibernate demo java application.
 
 
 ![image](https://user-images.githubusercontent.com/92176935/222985793-2b4301bd-93f7-4880-9b1b-c008a99b4212.png)
+![image](https://user-images.githubusercontent.com/92176935/222986164-1b866a0a-a465-46b7-aca3-a6851f53ddc0.png)
+
 
 Admin role: users in this role will be allowed to list, add, update and delete customers.
 ![image](https://user-images.githubusercontent.com/92176935/222985860-4068d931-aef1-4bd4-af3f-571a54506e59.png)
