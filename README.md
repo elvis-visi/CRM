@@ -22,3 +22,10 @@ Admin role: users in this role will be allowed to list, add, update and delete c
 #5 Employee view
 Employee role: users in this role will only be allowed to list customers.
 ![image](https://user-images.githubusercontent.com/92176935/222985951-69e936f1-1930-4236-9840-4ebd54e2a227.png)
+
+#6 Add Customer page
+![image](https://user-images.githubusercontent.com/92176935/222986367-30bacb4f-4315-4ee1-a4d8-e83f787da583.png)
+
+#ERD
+
+![image](https://user-images.githubusercontent.com/92176935/222986582-c546e193-688c-4acb-918d-070c020fdb6e.png)
