@@ -35,18 +35,4 @@ Employee role: users in this role will only be allowed to list customers.
 
 # 8. Endpoints provided
 
-/customer 
-      /list
-      /showFormForAdd
-	/search
-	/saveCustomer
-	/showFormForUpdate
-	/delete
-
-
-/showMyLoginPage
-/access-denied
-
-/register
-	/showRegistrationForm
-	/processRegistrationForm 
+![image](https://user-images.githubusercontent.com/92176935/223185264-de144b27-6e46-4311-86a3-32aed10c9753.png)
