@@ -1,9 +1,9 @@
 # 1. About
 CRM java application based on this [Spring and Hibernate course](https://www.udemy.com/share/101WHS3@yAni4oJ1jUSRpgSPLzqg2cWRQXZQN_BCJiudaa2Gbl3u2xMuKOUhrpEVzHudS6Fl/)
 
-CRUD Spring MVC + Hibernate demo java application.
-Restrict URL access based on 3 roles, employee, manager and admin.
-Display content based on roles
+- CRUD Spring MVC + Hibernate demo java application.
+- Restrict URL access based on 3 roles, employee, manager and admin.
+- Display content based on roles
 
 # 2. Log in and Registration Pages 
 
