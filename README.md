@@ -35,4 +35,4 @@ Employee role: users in this role will only be allowed to list customers.
 
 # 8. Endpoints provided
 
-![image](https://user-images.githubusercontent.com/92176935/223185264-de144b27-6e46-4311-86a3-32aed10c9753.png)
+![image](https://user-images.githubusercontent.com/92176935/223185766-d2f8bcb3-e958-4937-86a6-5a9947fffa66.png)
