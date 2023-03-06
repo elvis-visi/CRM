@@ -13,17 +13,20 @@ CRM java application based on this [Spring and Hibernate course](https://www.ude
 
 # 3. Admin view
 
-Admin role: users in this role will be allowed to list, add, update and delete customers.
+**Admin role: users in this role will be allowed to list, add, update and delete customers.**
+
 ![image](https://user-images.githubusercontent.com/92176935/223188196-2bed33a7-1f65-4e5e-aae8-5ed16cbf9fab.png)
 
 # 4. Manager view
 
-• Manager role: users in this role will be allowed to list, add and update customers.
+**Manager role: users in this role will be allowed to list, add and update customers.**
+
 ![image](https://user-images.githubusercontent.com/92176935/223188309-4362bd5b-1b6a-4fe0-9a97-f66e570c70eb.png)
 
 # 5. Employee view
 
-Employee role: users in this role will only be allowed to list customers.
+**Employee role: users in this role will only be allowed to list customers.**
+
 ![image](https://user-images.githubusercontent.com/92176935/223188399-1b27b4b4-e820-4c0e-9050-89d44cdaeabf.png)
 
 # 6. Add Customer page
