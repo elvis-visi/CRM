@@ -29,7 +29,7 @@ Employee role: users in this role will only be allowed to list customers.
 
 ![image](https://user-images.githubusercontent.com/92176935/222986367-30bacb4f-4315-4ee1-a4d8-e83f787da583.png)
 
-# 7. ERD
+# 7. Database
 
 ![image](https://user-images.githubusercontent.com/92176935/222986582-c546e193-688c-4acb-918d-070c020fdb6e.png)
 
