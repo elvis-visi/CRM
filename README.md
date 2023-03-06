@@ -1,5 +1,5 @@
 # 1. About
-CRM java application based on this course: https://www.udemy.com/share/101WHS3@yAni4oJ1jUSRpgSPLzqg2cWRQXZQN_BCJiudaa2Gbl3u2xMuKOUhrpEVzHudS6Fl/
+CRM java application based on this [course](https://www.udemy.com/share/101WHS3@yAni4oJ1jUSRpgSPLzqg2cWRQXZQN_BCJiudaa2Gbl3u2xMuKOUhrpEVzHudS6Fl/)
 
 CRUD Spring MVC + Hibernate demo java application.
 Restrict URL access based on 3 roles, employee, manager and admin.
@@ -49,4 +49,4 @@ Employee role: users in this role will only be allowed to list customers.
 
 /register
 	/showRegistrationForm
-	/processRegistrationForm
+	/processRegistrationForm 
